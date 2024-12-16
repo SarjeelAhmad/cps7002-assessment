@@ -1,0 +1,37 @@
+# Python related
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS-related files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook files
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+
+# Report files (optional if not committed)
+reports/*.pdf
+
+# Dependency directories
+node_modules/
+
+# Configuration files
+config.json
+*.env
