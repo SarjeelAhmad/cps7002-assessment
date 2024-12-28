@@ -1,0 +1,4 @@
+id,equipment_name,last_maintenance,next_maintenance,status
+1,Treadmill,2024-12-01,2025-01-01,Completed
+2,Elliptical,2024-12-05,2025-01-05,Pending
+3,Stationary Bike,2024-12-10,2025-01-10,In Progress

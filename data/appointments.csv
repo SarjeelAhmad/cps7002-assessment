@@ -1,0 +1,5 @@
+id,member_id,trainer_id,appointment_type,date_time,status
+1,1001,2001,Personal Training,2024-12-20 10:00:00,Scheduled
+2,1002,2002,Group Class,2024-12-21 11:00:00,Scheduled
+3,1003,2003,Consultation,2024-12-22 12:00:00,Cancelled
+4,1004,2004,Nutrition Consultation,2024-12-23 14:00:00,Scheduled
