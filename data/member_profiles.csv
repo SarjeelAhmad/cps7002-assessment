@@ -1,0 +1,6 @@
+id,name,age,gender,membership_type,health_info,membership_status
+1,John Doe,30,Male,Regular,No health issues,Active
+2,Jane Smith,25,Female,Premium,Allergic to nuts,Active
+3,Robert Brown,28,Male,Trial,Asthma,Inactive
+4,Emily Davis,32,Female,Regular,No health issues,Active
+4,Emily Davis,32,Female,Regular,No health issues,Active
